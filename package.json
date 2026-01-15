@@ -1,0 +1,26 @@
+{
+  "name": "wa_vjezbe_01-sadasnjii",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Marko488/wa_vjezbe_01-sadasnjii#readme",
+  "bugs": {
+    "url": "https://github.com/Marko488/wa_vjezbe_01-sadasnjii/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marko488/wa_vjezbe_01-sadasnjii.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
